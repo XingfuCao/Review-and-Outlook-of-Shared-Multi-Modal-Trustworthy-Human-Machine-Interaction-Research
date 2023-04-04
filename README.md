@@ -13,7 +13,6 @@ A curated list of research papers in human-machine interaction.
 2. Ronghang Hu, Amanpreet Singh, et al. **Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA**. 	CVPR 2020. [[Paper]](https://arxiv.org/abs/1911.06258) [[Code]](https://github.com/adlnlp/attention_vl)
 3. Mahdi Abavisani, Liwei Wu, et al. **Multimodal Categorization of Crisis Events in Social Media**. CVPR 2020.[[Paper]](https://arxiv.org/abs/2004.04917) [[Code]](https://github.com/PaulCCCCCCH/Multimodal-Categorization-of-Crisis-Events-in-Social-Media)
 4. Shaofei Huang, Tianrui Hui, et al.**Referring Image Segmentation via Cross-Modal Progressive Comprehension**. CVPR 2020. [[Paper]](https://arxiv.org/abs/2010.00514) [[Code]](https://github.com/spyflying/CMPC-Refseg)
-5. Shaofei Huang, Tianrui Hui, et al.**Referring Image Segmentation via Cross-Modal Progressive Comprehension**. CVPR 2020.[[Paper]](https://arxiv.org/abs/2010.00514) [[Code]](https://github.com/spyflying/CMPC-Refseg)
 
 #### 2021
 1. Kranti Kumar Parida, Siddharth Srivastava, et al. **Beyond Image to Depth: Improving Depth Prediction using Echoes**. CVPR 2021. [[Paper]](https://arxiv.org/abs/2103.08468) [[Code]](https://github.com/krantiparida/beyond-image-to-depth)
