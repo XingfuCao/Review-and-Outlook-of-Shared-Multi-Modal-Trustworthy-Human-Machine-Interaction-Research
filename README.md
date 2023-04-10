@@ -37,7 +37,7 @@ A curated list of research papers in human-machine interaction.
 
 
 ## shared awareness cues / shared awareness interaction / AR-based human-robot interaction <br>
-####2021
+#### 2021
 1. Huidong Bai, Prasanth Sasikumar, et al. **A User Study on Mixed Reality Remote Collaboration with Eye Gaze and Hand Gesture Sharing**. CHI 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376550)
 #### 2022
 1. Diego Paez-Granados, Yujie He, et al. **Pedestrian-Robot Interactions on Autonomous Crowd Navigation: Reactive Control Methods and Evaluation Metrics**. IROS 2022. [[Paper]](https://arxiv.org/abs/2208.02121) [[Code]](https://github.com/epfl-lasa/crowdbot-evaluation-tools)
